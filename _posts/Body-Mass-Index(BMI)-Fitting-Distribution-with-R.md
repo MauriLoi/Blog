@@ -1,6 +1,6 @@
 ---
 title: Body Mass Index(BMI)-Fitting Distribution with R
-date:  2021-05-12 12:00:00 -500
+date:  2024-01-11 12:00:00 -500
 categories: [Statistic, R]
 tags: [BMI,R,Statistic]
 ---
