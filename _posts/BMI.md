@@ -1,4 +1,5 @@
 ---
+layout: home
 title: Body-Mass-Index-BMI-Fitting-Distribution-with-R
 date: 2021-05-12 12:00:00 +/-5000
 categories: [BMI]
