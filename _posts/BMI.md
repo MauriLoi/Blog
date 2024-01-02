@@ -1,8 +1,12 @@
 ---
 title: Body-Mass-Index-BMI-Fitting-Distribution-with-R
+author: MauriLoi
 date: 2021-05-12 12:00:00 +/-5000
 categories: [BMI]
 tags: [BMI]     # TAG names should always be lowercase
+pin: true
+math: true
+mermaid: true
 ---
 
 ## [Body Mass Index BMI fitting Distribution with R](https://github.com/MauriLoi/Body-Mass-Index-BMI-fitting-Distribution-with-R)
