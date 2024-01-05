@@ -1,5 +1,5 @@
 ---
-#layout: archives
-icon: fas fa-tags
+#layout: News
+icon: fas fa-newspaper
 order: 5
 ---
