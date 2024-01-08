@@ -195,12 +195,11 @@ exclude:
   - package*.json
 
 jekyll-archives:
-  enabled: [categories, tags ,news]
+  enabled: [categories, tags]
   layouts:
     category: category
     tag: tag
-    new: new
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
-    new: /news/:name/
+   
