@@ -15,7 +15,7 @@ timezone: Europe/London
 # ↓ --------------------------
 
 title: Maurizio Loiacono Personal Blog # the main title
-
+    
 tagline: Posts, Ideas and Projects # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
