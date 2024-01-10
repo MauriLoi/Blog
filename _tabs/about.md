@@ -11,6 +11,3 @@ order: 4
 To further my passion for Data I am currently in the final stages of a Digital Skills Bootcamp at Just IT Training to consolidate my previous acquired skills, whilst developing new modern technologies. This will be supported by my GitHub Portfolio.  
 
 I am now seeking an Entry Level role as Data Analyst or Business Analyst where I can leverage my customer-centric approach and robust analytical and technical abilities to the fullest potential.   <br/>
-
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
