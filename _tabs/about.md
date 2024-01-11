@@ -74,8 +74,6 @@ I am now seeking an Entry Level role as Data Analyst or Business Analyst where I
 
  <br />
 
-***
-
 <p style='text-align: right;'>
 <span style="float:left;">
         02/2018 - 03/2020
@@ -83,12 +81,13 @@ I am now seeking an Entry Level role as Data Analyst or Business Analyst where I
  MSc Data Analytics, (Pass) <br />
 </p>
 
-<p style='text-align: right;'>
+<p style= 'text-align: center;'>
 <span style="float:left;">
         Core Modules:
 </span>
-Data Mining for Business Intelligence, <br />
+ Data Mining for Business Intelligence, <br /> 
 Data Modelling and OLAP Technique for Data Analytics, <br />
-Python for Data Analytics, Financial Math, <br />
+Python for Data Analytics, Financial Math, <br /><p style="text-align: right; margin: 0;">This text is aligned to the right.</p><p style="text-align: left; margin: 0;">This text is aligned to the left.</p>
 Statistical Modelling and Forecasting, Data Visualisation<br />
 </p> <br />
+
