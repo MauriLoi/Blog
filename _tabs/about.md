@@ -11,7 +11,11 @@ To further my passion for Data I am currently in the final stages of a Digital S
 I am now seeking an Entry Level role as Data Analyst or Business Analyst where I can leverage my customer-centric approach and robust analytical and technical abilities to the fullest potential. </div>
 
 
-### Key Skills
+## Key Skills
+
+
+### Technical Skills:
+
 
 | Technical Skills                  |                                                 Description                                                                                         |
 |:----------------------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -34,7 +38,8 @@ I am now seeking an Entry Level role as Data Analyst or Business Analyst where I
 
 ### Soft Skills
 
-|                                                   |                                                 |
+
+| Soft Skills                                       |                                                 |
 |:--------------------------------------------------|:------------------------------------------------|
 | Critical Thinking abilities                       |  Strong Customer Servicey                       |
 | Excellent Communication both writen and verbal    |  Able to work collaboratively and independently |
