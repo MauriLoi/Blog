@@ -16,8 +16,8 @@ I am now seeking an Entry Level role as Data Analyst or Business Analyst where I
 | Statistical Analysis              | (Probability distribution functions hypothesis testing, descriptive/inferential stats, Moving average, Local regression, P-splines and Cubic spline)|
 | Data Manipulation & Data Cleaning | (Python , RStudio, SQL, Excel: Data Cleaning and Pre-processing, Data Imputation, Outliers Detection, Normalisation and Standardization             |
 |                                   |  Data transformation, Text Data Cleaning, Data Manipulation)                                                                                        |
-| Magazzini Alimentari Riuniti      | Giovanni Rovelli                                                                                                                                    |
-| Magazzini Alimentari Riuniti      | Giovanni Rovelli                                                                                                                                    |
+| Data Wrangling                    | (R-RStudio: dplyr, tidyr ; Python: Panda, NumPy)                                                                                                    |
+| Database Management               | (Experienced in building and maintaining data warehouses and employing ETL processes )                                                              |
 | Magazzini Alimentari Riuniti      | Giovanni Rovelli                                                                                                                                    |
 | Magazzini Alimentari Riuniti      | Giovanni Rovelli                                                                                                                                    |
 | Magazzini Alimentari Riuniti      | Giovanni Rovelli                                                                                                                                    |
