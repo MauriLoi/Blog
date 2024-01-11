@@ -20,8 +20,7 @@ I am now seeking an Entry-level role as a Data Analyst or Business Analyst where
 | Technical Skills                  |                                                 Description                                                                                         |
 |:----------------------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------|
 | Statistical Analysis              |  Probability distribution functions hypothesis testing, descriptive/inferential stats, Moving average, Local regression, P-splines and Cubic spline |
-| Data Manipulation & Data Cleaning |  Python, RStudio, SQL, Excel: Data Cleaning and Pre-processing, Data Imputation, Outliers Detection, Normalisation and Standardization             |
-|                                   |  Data transformation, Text Data Cleaning, Data Manipulation                                                                                         |
+| Data Manipulation & Data Cleaning |  Python, RStudio, SQL, Excel: Data Cleaning and Pre-processing, Data Imputation, Outliers Detection, Normalisation and Standardization Data transformation, Text Data Cleaning, Data Manipulation                                                                                                                                                                         |
 | Data Wrangling                    |  R-RStudio: dplyr, tidyr ; Python: Panda, NumPy                                                                                                     |
 | Database Management               |  Experienced in building and maintaining data warehouses and employing ETL processes                                                                |
 | Data Visualisation                |  Power BI, Tableau, Excel, Python : Seaborn , Matplotlib, Plotly ; Python - RStudio: ggplot2                                                        |
@@ -106,11 +105,11 @@ on the level of London population density” <br />The focus of this paper is on
 </p> <br />
 
 | Soft Skills                                  |                                                             |
-|:---------------------------------------------|:------------------------------------------------           |
+|:---------------------------------------------|:------------------------------------------------------------|
 |  02/2018 - 03/2020                           |  London Metropolitan University, London                     |
 |                                              |  MSc Data Analytics, (Pass)                                 |
-| Core Modules:                                |  Statistical Modelling and Forecasting, Data Visualisation,<br />   Modelling and OLAP Technique for Data Analytics, Data Mining for <br />Business Intelligence, Python for Data  Analytics, Financial   Math                                                                                  |
-|Final Year Project:                           | *"Analysis of the effects of Social, Demographic and Economic indicators*, on the level of London population density” <br /><br /> The focus of this paper is on the level of density of small areas within the urban area of London. The analysis is done to discover if selected factors could influence and determine areas with low density.                                                              |
+| Core Modules:                                |  Statistical Modelling and Forecasting, Data Visualisation,<br />   Modelling and OLAP Technique for Data Analytics, Data Mining for <br />Business Intelligence, Python for Data  Analytics, Financial   Math                                                                                                         |
+|Final Year Project:                           | *"Analysis of the effects of Social, Demographic and Economic indicators*, on the level of London population density” <br /><br /> The focus of this paper is on the level of density of small areas within the urban area of London. The analysis is done to discover if selected factors could influence and determine areas with low density.                                                                                                     |
 |Languages:                                    | Python, SQL, R                                              |
 |Languages:                                    | Python, SQL, R                                              |
 
