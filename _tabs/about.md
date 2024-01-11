@@ -16,6 +16,7 @@ I am now seeking an Entry Level role as Data Analyst or Business Analyst where I
 
 ### Technical Skills:
 
+
 | Technical Skills                  |                                                 Description                                                                                         |
 |:----------------------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------|
 | Statistical Analysis              |  Probability distribution functions hypothesis testing, descriptive/inferential stats, Moving average, Local regression, P-splines and Cubic spline |
@@ -36,6 +37,7 @@ I am now seeking an Entry Level role as Data Analyst or Business Analyst where I
 
 
 ### Soft Skills
+
 
 | Soft Skills                                       |                                                 |
 |:--------------------------------------------------|:------------------------------------------------|
