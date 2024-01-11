@@ -45,3 +45,10 @@ I am now seeking an Entry Level role as Data Analyst or Business Analyst where I
 | Excellent Communication both writen and verbal    |  Able to work collaboratively and independently |
 | Detail Orientate                                  |  Good planning & organisation                   |
 | Adaptable in situations                           |  Effective communication                        |
+
+
+## Education and IT Training
+
+09/2023-12/2023                                Just IT Training Ltd, London
+&emsp;&emsp; &emsp;&emsp; &emsp;&emsp; &emsp;Digital Skills Bootcamp: Data Technician
+&emsp;&emsp; &emsp;&emsp; &emsp;&emsp; &emsp;A twelve-week intensive bootcamp covering the fundamentals of Data Technician.
