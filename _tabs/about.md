@@ -73,20 +73,34 @@ I am now seeking an Entry-level role as a Data Analyst or Business Analyst where
 
  <br />
 
-|                                   |                                                             |
-|:---------------------------------------------|:------------------------------------------------------------|
-|  02/2018 - 03/2020                           |  London Metropolitan University, London                     |
-|                                              |  MSc Data Analytics, (Pass)                                 |
-| Core Modules:                                |  Statistical Modelling and Forecasting, Data Visualisation,<br />   Modelling and OLAP Technique for Data Analytics, Data Mining for <br />Business Intelligence, Python for Data  Analytics, Financial   Math                                                                 |
-| Languages:                                   |  Python, SQL, R , SQL                                       |
-|Final Year Project:                           | *"Analysis of the effects of Social, Demographic and Economic indicators*, on the level of London population density” <br /><br /> The focus of this paper is on the level of density of small areas within the urban area of London. The analysis is done to discover if selected factors could influence and determine areas with low density.                                                                                                     |
+<p style='text-align: right;'>
+<span style="float:left;">
+        02/2018 - 03/2020 
+</span>London Metropolitan University, London <br />
+ MSc Data Analytics, (Pass) <br />
+</p><br />
 
-<br />
+<p style= 'text-align: right;'>
+<span style="float:left;">
+        Core Modules:
+</span>
+Statistical Modelling and Forecasting, Data Visualisation<br />
+Data Modelling and OLAP Technique for Data Analytics, <br />
+Data Mining for Business Intelligence, <br /> 
+Python for Data Analytics, Financial Math <br />
+</p> 
 
-|                                  |                                                             |
-|:---------------------------------------------|:------------------------------------------------------------|
-|  09/2006 - 03/2012                           |  Alma Mater Studiorum - Università di Bologna <br /> Bologna BSc Class: Economics and Marketing 2:2                              |
-| Core Modules:                                | Mathematics, Statistics, Quantitative Models for Marketing, Microeconomics, Macroeconomics, History of Economic Doctrines, Trade Marketing and Business to Business Marketing, Market Analysis, Marketing 
-| Languages:                                   |  R , MATLAB                                                  |
-|Final Year Project:                           | *"Web Marketing and Mobile marketing, report and evolution with the territory”* <br /><br /> Key components of the report include tracing the historical progression of web <br /> and mobile marketing within the territory, examining current trends, technological innovations, and consumer behaviours, evaluating the effectiveness of marketing campaigns, and projecting future developments in these domains.                                                                                                    |
+<p style= 'text-align: right;'>
+<span style="float:left;">
+        Languages:
+</span>
+Python, SQL, R <br />
+</p> <br />
+
+<p style= 'text-align: right;'>
+   <span style="float:left;">
+        Final Year Project:
+   </span> **Analysis of the effects of Social, Demographic and Economic indicators**,<br />
+on the level of London population density” <br />The focus of this paper is on the level of density of small areas within the <br /> urban area of London. The analysis is done to discover if selected factors <br /> could influence and determine areas with low density.
+</p> <br />
 
