@@ -27,7 +27,7 @@ I am now seeking an Entry Level role as Data Analyst or Business Analyst where I
 | Data Visualisation                |  Power BI, Tableau, Excel, Python : Seaborn , Matplotlib, Plotly ; Python - RStudio: ggplot2                                                        |
 | Python                            |  Classes, function objects, sequences, decisions, loops and common data structure Sklearn, Tensorflow and Keras                                     |
 | RStudio                           |  Generalized Linear Models(glm,MASS,car),Generalized Additive Models(mgcv) and Generalised Additive Models for Location Scale and Shape(gamlss)     |
-| Machine Learning                  |  Supervised: linear regression, logistic regression, decision trees.. etc. Unsupervised: clustering k-means, hierarchical, dimensionality reduction  |   
+| Machine Learning                  |  Supervised: linear regression, logistic regression, decision trees..ecc. Unsupervised: clustering k-means, hierarchical, dimensionality reduction  |   
 |                                   |  Model Evaluation and Validation: Accuracy, precision, recall, F1-score, ROC curves, and AUC-ROC. Feature Engineering: Strong understanding of      |
 |                                   |  feature selection, extraction, and engineering techniques to enhance model performance                                                             |
 | Excel                             |  Data Analysis: Pivot Table, sorting, filtering; Advanced Formulas: VLOOKUP, INDEX-MATCH SUMIFS, COUNTIFS, IFERROR, Statistical Analysis, Financial | 
@@ -49,10 +49,15 @@ I am now seeking an Entry Level role as Data Analyst or Business Analyst where I
 
 ## Education and IT Training
 
-09/2023-12/2023                         Just IT Training Ltd, London 
-                                        Skills Bootcamp: Data Technician
-                                        A twelve-week intensive bootcamp
-                                        covering the fundamentals of Data Technician 
+<p style='text-align: right;'>
+<span style="float:left;">
+        09/2023-12/2023
+</span>
+ Just IT Training Ltd,London <br />
+ Skills Bootcamp: Data Technician <br />
+ A twelve-week intensive bootcamp <br />
+ the fundamentals of Data Technician 
+</p>
 
 *  Data, Big Data and Data Structures
 *  Data Architecture & Governance
@@ -66,4 +71,14 @@ I am now seeking an Entry Level role as Data Analyst or Business Analyst where I
 *  Azure Fundamentals - Module 1- core data concepts- Software SAAS, Cloud
 *  Introduction using R analytical - Data cleaning and EDA with R Studio and R  programming.
 *  Data Analysis via Python programming- Utilising Pandas, Matplotlib & Seaborn
-*  Consolidation of assignments
+*  Consolidation of assignments 
+
+ <br />
+
+
+<p style='text-align: right;'>
+<span style="float:left;">
+        02/2018 - 03/2020
+</span>London Metropolitan University, LondonJust IT Training Ltd,London <br />
+ MSc Data Analytics, (Pass) <br />
+</p>
