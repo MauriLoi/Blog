@@ -55,9 +55,8 @@ I am now seeking an Entry Level role as Data Analyst or Business Analyst where I
 </span>
  Just IT Training Ltd,London <br />
  Skills Bootcamp: Data Technician <br />
- A twelve-week intensive bootcamp <br />
- the fundamentals of Data Technician 
-</p>
+ A twelve-week intensive bootcamp the fundamentals of Data Technician 
+</p> <br />
 
 *  Data, Big Data and Data Structures
 *  Data Architecture & Governance
@@ -82,3 +81,15 @@ I am now seeking an Entry Level role as Data Analyst or Business Analyst where I
 </span>London Metropolitan University, LondonJust IT Training Ltd,London <br />
  MSc Data Analytics, (Pass) <br />
 </p>
+
+<p style='text-align: right;'>
+<span style="float:left;">
+        Core Modules:
+</span>
+Data Mining for Business Intelligence, <br />
+Data Modelling and OLAP Technique for Data Analytics, <br />
+Python for Data Analytics, Financial Math, <br />
+Statistical Modelling and Forecasting, Data Visualisation<br />
+</p> <br />
+
+
