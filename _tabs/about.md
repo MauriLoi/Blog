@@ -48,7 +48,7 @@ I am now seeking an Entry Level role as Data Analyst or Business Analyst where I
 
 
 ## Education and IT Training
-
+---
 <p style='text-align: right;'>
 <span style="float:left;">
         09/2023-12/2023
@@ -74,6 +74,7 @@ I am now seeking an Entry Level role as Data Analyst or Business Analyst where I
 
  <br />
 
+***
 
 <p style='text-align: right;'>
 <span style="float:left;">
@@ -91,5 +92,3 @@ Data Modelling and OLAP Technique for Data Analytics, <br />
 Python for Data Analytics, Financial Math, <br />
 Statistical Modelling and Forecasting, Data Visualisation<br />
 </p> <br />
-
-
