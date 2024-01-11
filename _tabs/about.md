@@ -11,6 +11,7 @@ To further my passion for Data I am currently in the final stages of a Digital S
 I am now seeking an Entry Level role as Data Analyst or Business Analyst where I can leverage my customer-centric approach and robust analytical and technical abilities to the fullest potential. </div>
 
 
+### Key Skills
 
 | Technical Skills                  |                                                 Description                                                                                         |
 |:----------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------:|
@@ -24,18 +25,11 @@ I am now seeking an Entry Level role as Data Analyst or Business Analyst where I
 | RStudio                           |  Generalized Linear Models(glm,MASS,car),Generalized Additive Models(mgcv) and Generalised Additive Models for Location Scale and Shape(gamlss)     |
 | Machine Learning                  |  Supervised: linear regression, logistic regression, decision trees..ecc. Unsupervised: clustering k-means, hierarchical, dimensionality reduction  |   
 |                                   |  Model Evaluation and Validation: Accuracy, precision, recall, F1-score, ROC curves, and AUC-ROC. Feature Engineering: Strong understanding of      |
-|                                   |   feature selection, extraction, and engineering techniques to enhance model performance                                                            |
-| Magazzini Alimentari Riuniti      | Giovanni Rovelli                                                                                                                                    |
-| Magazzini Alimentari Riuniti      | Giovanni Rovelli                                                                                                                                    |
-| Magazzini Alimentari Riuniti      | Giovanni Rovelli                                                                                                                                    |
-| Magazzini Alimentari Riuniti      | Giovanni Rovelli                                                                                                                                    |
-| Magazzini Alimentari Riuniti      | Giovanni Rovelli                                                                                                                                    |
-| Magazzini Alimentari Riuniti      | Giovanni Rovelli                                                                                                                                    |
-| Magazzini Alimentari Riuniti      | Giovanni Rovelli                                                                                                                                    |
-| Magazzini Alimentari Riuniti      | Giovanni Rovelli                                                                                                                                    |
-| Magazzini Alimentari Riuniti      | Giovanni Rovelli                                                                                                                                    |
-| Magazzini Alimentari Riuniti      | Giovanni Rovelli                                                                                                                                    |
-| Magazzini Alimentari Riuniti      | Giovanni Rovelli                                                                                                                                    |
-| Magazzini Alimentari Riuniti      | Giovanni Rovelli                                                                                                                                    |
-| Magazzini Alimentari Riuniti      | Giovanni Rovelli                                                                                                                                    |
-| Magazzini Alimentari Riuniti      | Giovanni Rovelli                                                                                                                                    |
+|                                   |  feature selection, extraction, and engineering techniques to enhance model performance                                                             |
+| Excel                             |  Data Analysis: Pivot Table, sorting, filtering; Advanced Formulas: VLOOKUP, INDEX-MATCH SUMIFS, COUNTIFS, IFERROR, Statistical Analysis, Financial | 
+|                                   |  Modelling, Excel Macros(VBA)                                                                                                                       | 
+| Azure                             |  Azure SQL Database, Azure Data Factory, Azure Databricks, Azure Synapse Analytic                                                                   |
+| SQL                               |  SQL Server, MySQL (Advanced SQL skills including complex queries, subqueries, joins, stored procedures)                                            |
+
+
+### Soft Skills
