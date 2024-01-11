@@ -113,6 +113,4 @@ on the level of London population density” <br />The focus of this paper is on
 |Final Year Project:                           | *"Analysis of the effects of Social, Demographic and Economic indicators*, on the level of London population density” <br /><br /> The focus of this paper is on the level of density of small areas within the urban area of London. The analysis is done to discover if selected factors could influence and determine areas with low density.                                                              |
 |Languages:                                    | Python, SQL, R                                              |
 |Languages:                                    | Python, SQL, R                                              |
-|Languages:                                    | Python, SQL, R                                              |
-|Languages:                                    | Python, SQL, R                                              |
-|Languages:                                    | Python, SQL, R                                              |
+
