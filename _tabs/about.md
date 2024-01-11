@@ -17,3 +17,22 @@ I am now seeking an Entry Level role as Data Analyst or Business Analyst where I
 | Data Manipulation & Data Cleaning | (Python , RStudio, SQL, Excel: Data Cleaning and Pre-processing, Data Imputation, Outliers Detection, Normalisation and Standardization             |
 |                                   |  Data transformation, Text Data Cleaning, Data Manipulation)                                                                                        |
 | Magazzini Alimentari Riuniti      | Giovanni Rovelli                                                                                                                                    |
+| Magazzini Alimentari Riuniti      | Giovanni Rovelli                                                                                                                                    |
+| Magazzini Alimentari Riuniti      | Giovanni Rovelli                                                                                                                                    |
+| Magazzini Alimentari Riuniti      | Giovanni Rovelli                                                                                                                                    |
+| Magazzini Alimentari Riuniti      | Giovanni Rovelli                                                                                                                                    |
+| Magazzini Alimentari Riuniti      | Giovanni Rovelli                                                                                                                                    |
+| Magazzini Alimentari Riuniti      | Giovanni Rovelli                                                                                                                                    |
+| Magazzini Alimentari Riuniti      | Giovanni Rovelli                                                                                                                                    |
+| Magazzini Alimentari Riuniti      | Giovanni Rovelli                                                                                                                                    |
+| Magazzini Alimentari Riuniti      | Giovanni Rovelli                                                                                                                                    |
+| Magazzini Alimentari Riuniti      | Giovanni Rovelli                                                                                                                                    |
+| Magazzini Alimentari Riuniti      | Giovanni Rovelli                                                                                                                                    |
+| Magazzini Alimentari Riuniti      | Giovanni Rovelli                                                                                                                                    |
+| Magazzini Alimentari Riuniti      | Giovanni Rovelli                                                                                                                                    |
+| Magazzini Alimentari Riuniti      | Giovanni Rovelli                                                                                                                                    |
+| Magazzini Alimentari Riuniti      | Giovanni Rovelli                                                                                                                                    |
+| Magazzini Alimentari Riuniti      | Giovanni Rovelli                                                                                                                                    |
+| Magazzini Alimentari Riuniti      | Giovanni Rovelli                                                                                                                                    |
+| Magazzini Alimentari Riuniti      | Giovanni Rovelli                                                                                                                                    |
+| Magazzini Alimentari Riuniti      | Giovanni Rovelli                                                                                                                                    |
