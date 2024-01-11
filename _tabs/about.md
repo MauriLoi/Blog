@@ -49,8 +49,7 @@ I am now seeking an Entry Level role as Data Analyst or Business Analyst where I
 
 ## Education and IT Training
 
- <div align="left">09/2023-12/2023</div><div align="right">Just IT Training Ltd, London
-                                        <div align="right">Skills Bootcamp: Data Technician
-                                        <div align="right">A twelve-week intensive bootcamp
-                                        <div align="right">covering the fundamentals of Data 
-                                        <div align="right">Technician </div>
+09/2023-12/2023                         Just IT Training Ltd, London
+                                        Skills Bootcamp: Data Technician
+                                        A twelve-week intensive bootcamp
+                                        covering the fundamentals of Data Technician 
