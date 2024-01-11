@@ -76,18 +76,43 @@ I am now seeking an Entry Level role as Data Analyst or Business Analyst where I
 
 <p style='text-align: right;'>
 <span style="float:left;">
-        02/2018 - 03/2020
-</span>London Metropolitan University, LondonJust IT Training Ltd,London <br />
+        02/2018 - 03/2020 
+</span>London Metropolitan University, London <br />
  MSc Data Analytics, (Pass) <br />
-</p>
+</p><br />
 
-<p style= 'text-align: center;'>
+<p style= 'text-align: right;'>
 <span style="float:left;">
         Core Modules:
 </span>
- Data Mining for Business Intelligence, <br /> 
-Data Modelling and OLAP Technique for Data Analytics, <br />
-Python for Data Analytics, Financial Math, <br /><p style="text-align: right; margin: 0;">This text is aligned to the right.</p><p style="text-align: left; margin: 0;">This text is aligned to the left.</p>
 Statistical Modelling and Forecasting, Data Visualisation<br />
+Data Modelling and OLAP Technique for Data Analytics, <br />
+Data Mining for Business Intelligence, <br /> 
+Python for Data Analytics, Financial Math <br />
+</p> 
+
+<p style= 'text-align: right;'>
+<span style="float:left;">
+        Languages:
+</span>
+Python, SQL, R <br />
 </p> <br />
 
+<p style= 'text-align: right;'>
+   <span style="float:left;">
+        Final Year Project:
+   </span> **Analysis of the effects of Social, Demographic and Economic indicators**,<br />
+on the level of London population density” <br />The focus of this paper is on the level of density of small areas within the <br /> urban area of London. The analysis is done to discover if selected factors <br /> could influence and determine areas with low density.
+</p> <br />
+
+| Soft Skills                                  |                                                             |
+|:---------------------------------------------|:------------------------------------------------           |
+|  02/2018 - 03/2020                           |  London Metropolitan University, London                     |
+|                                              |  MSc Data Analytics, (Pass)                                 |
+| Core Modules:                                |  Statistical Modelling and Forecasting,Data Visualisation,<br />   Modelling and OLAP Technique for Data Analytics,Data Mining for <br />Business Intelligence,Python for Data  Analytics, Financial   Math                                                                                  |
+|Final Year Project:                           | *"Analysis of the effects of Social, Demographic and Economic indicators*,on the level of London population density” <br /><br /> The focus of this paper is on the level of density of small areas within the urban area of London. The analysis is done to discover if selected factors could influence and determine areas with low density.                                                              |
+|Languages:                                    | Python, SQL, R                                              |
+|Languages:                                    | Python, SQL, R                                              |
+|Languages:                                    | Python, SQL, R                                              |
+|Languages:                                    | Python, SQL, R                                              |
+|Languages:                                    | Python, SQL, R                                              |
