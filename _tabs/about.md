@@ -73,37 +73,6 @@ I am now seeking an Entry-level role as a Data Analyst or Business Analyst where
 
  <br />
 
-<p style='text-align: right;'>
-<span style="float:left;">
-        02/2018 - 03/2020 
-</span>London Metropolitan University, London <br />
- MSc Data Analytics, (Pass) <br />
-</p><br />
-
-<p style= 'text-align: right;'>
-<span style="float:left;">
-        Core Modules:
-</span>
-Statistical Modelling and Forecasting, Data Visualisation<br />
-Data Modelling and OLAP Technique for Data Analytics, <br />
-Data Mining for Business Intelligence, <br /> 
-Python for Data Analytics, Financial Math <br />
-</p> 
-
-<p style= 'text-align: right;'>
-<span style="float:left;">
-        Languages:
-</span>
-Python, SQL, R <br />
-</p> <br />
-
-<p style= 'text-align: right;'>
-   <span style="float:left;">
-        Final Year Project:
-   </span> **Analysis of the effects of Social, Demographic and Economic indicators**,<br />
-on the level of London population density” <br />The focus of this paper is on the level of density of small areas within the <br /> urban area of London. The analysis is done to discover if selected factors <br /> could influence and determine areas with low density.
-</p> <br />
-
 |                                   |                                                             |
 |:---------------------------------------------|:------------------------------------------------------------|
 |  02/2018 - 03/2020                           |  London Metropolitan University, London                     |
