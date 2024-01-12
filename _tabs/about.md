@@ -12,7 +12,7 @@ I am now seeking an Entry-level role as a Data Analyst or Business Analyst where
 
 
 ## Key Skills
-<br />
+
 
 | Technical Skills                  |                                                 Description                                                                                         |
 |:----------------------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -31,18 +31,18 @@ I am now seeking an Entry-level role as a Data Analyst or Business Analyst where
 | Azure                             |  Azure SQL Database, Azure Data Factory, Azure Databricks,<br /> Azure Synapse Analytic                                                                   |
 | SQL                               |  SQL Server, MySQL (Advanced SQL skills including complex <br />queries, subqueries, joins, stored procedures)                                            |
 
-<br />
+<br /><br />
 
-| Soft Skills                                       |                                                 |
-|:--------------------------------------------------|:------------------------------------------------|
-| Critical Thinking abilities                       |  Strong Customer Servicey                       |
-| Excellent Communication both writen and verbal    |  Able to work collaboratively and independently |
-| Detail Orientate                                  |  Good planning & organisation                   |
-| Adaptable in situations                           |  Effective communication                        |
+| Soft Skills                                       |                                                |
+|:--------------------------------------------------|:-----------------------------------------------|
+| Critical Thinking abilities                       |  Strong Customer Servicey                      |
+| Excellent Communication both writen and verbal    |  Able to work collaboratively and independently|
+| Detail Orientate                                  |  Good planning & organisation                  |
+| Adaptable in situations                           |  Effective communication                       |
 
-
+<br /><br />
 ## Education and IT Training
----
+<br />
 <p style='text-align: right;'>
 <span style="float:left;">
         09/2023-12/2023
