@@ -120,3 +120,10 @@ on the level of London population density” <br />The focus of this paper is on
 | Core Modules:                                | Mathematics, Statistics, Quantitative Models for Marketing, Marketing <br /> Microeconomics, Macroeconomics, History of Economic Doctrines, <br /> and Business to Business Marketing, Market Analysis, Trade Marketing
 | Languages:                                   |  R , MATLAB                                                 |
 | Final Year Project:                          | *"Web Marketing and Mobile marketing, report and evolution with the <br /> territory”* <br /> <br /> Key components of the report include tracing the historical progression <br /> of web and mobile marketing within the territory, examining current trends, <br /> technological innovations, and consumer behaviours, evaluating the <br /> effectiveness of marketing campaigns, and projecting future developments <br />  in these domains.                                                                                                     |
+
+<br />
+
+## Interests and Achievements
+
+### Hobbies:
+I have an interest in exploring philosophy and curious the world of business, including trends in areas such as advertising and the evolving role of media in society. Additionally, I also take part in sports including running, swimming and football.
