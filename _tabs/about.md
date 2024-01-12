@@ -105,7 +105,7 @@ on the level of London population density” <br />The focus of this paper is on
 </p> <br />
 
 |                                              |                                                             |
-|:---------------------------------------------|:------------------------------------------------------------|
+|:---------------------------------------------|:-----------------------------------------------------------:|
 |  02/2018 - 03/2020                           |  London Metropolitan University, London                     |
 |                                              |  MSc Data Analytics, (Pass)                                 |
 | Core Modules:                                |  Statistical Modelling and Forecasting, Data Visualisation, <br />  Modelling and OLAP Technique for Data Analytics, Data Mining for <br />Business Intelligence, Python for Data  Analytics, Financial   Math                                                                                                         |
@@ -115,7 +115,7 @@ on the level of London population density” <br />The focus of this paper is on
 <br />
 
 |                                              |                                                             |
-|:---------------------------------------------|:------------------------------------------------------------|
+|:---------------------------------------------|:-----------------------------------------------------------:|
 |  09/2006 - 03/2012                           |  Alma Mater Studiorum - Università di Bologna <br /> Bologna BSc Class: Economics and Marketing 2:2                                                                                                |
 | Core Modules:                                | Mathematics, Statistics, Quantitative Models for Marketing, Marketing <br /> Microeconomics, Macroeconomics, History of Economic Doctrines, <br /> and Business to Business Marketing, Market Analysis, Trade Marketing
 | Languages:                                   |  R , MATLAB                                                 |
