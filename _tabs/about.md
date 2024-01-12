@@ -64,7 +64,6 @@ I am now seeking an Entry-level role as a Data Analyst or Business Analyst where
 *  Data Analysis via Python programming- Utilising Pandas, Matplotlib & Seaborn
 *  Consolidation of assignments 
 
-
 |                                              |                                                             |
 |:---------------------------------------------|:-----------------------------------------------------------:|
 | 02/2018 - 03/2020                            |  London Metropolitan University, <br /> London MSc Data Analytics,(Pass)                                                                                                       |             
