@@ -121,6 +121,4 @@ on the level of London population density” <br />The focus of this paper is on
 
 ## Interests and Achievements
 
-### Hobbies:
 
-<div align="justify"> I have an interest in exploring philosophy and curious the world of business, including trends in areas such as advertising and the evolving role of media in society. Additionally, I also take part in sports including running, swimming and football<div>
