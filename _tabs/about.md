@@ -71,7 +71,7 @@ I am now seeking an Entry-level role as a Data Analyst or Business Analyst where
 
 |                                              |                                                             |
 |:---------------------------------------------|:-----------------------------------------------------------:|
-|  09/2006 - 03/2012                           |  Alma Mater Studiorum - Università di Bologna <br /> BSc Class: Economics and Marketing 2:2                                                                                                |
+|  09/2006 - 03/2012                           |  Alma Mater Studiorum - Università di Bologna <br /> BSc Class: Economics and Marketing 2:2 |
 | Core Modules:                                | Mathematics, Statistics, Quantitative Models for Marketing, Marketing <br /> Microeconomics, Macroeconomics, History of Economic Doctrines, <br /> and Business to Business Marketing, Market Analysis, Trade Marketing
 | Languages:                                   |  R , MATLAB                                                 |
 | Final Year Project:                          | *"Web Marketing and Mobile marketing, report and evolution with the <br /> territory”* <br /> <br /> Key components of the report include tracing the historical progression <br /> of web and mobile marketing within the territory, examining current trends, <br /> technological innovations, and consumer behaviours, evaluating the <br /> effectiveness of marketing campaigns, and projecting future developments <br />  in these domains.                                                                                                     |
