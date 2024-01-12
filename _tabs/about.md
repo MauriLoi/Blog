@@ -22,17 +22,17 @@ I am now seeking an Entry-level role as a Data Analyst or Business Analyst where
 | Statistical Analysis              |  Probability distribution functions hypothesis testing,<br /> descriptive/inferential stats, Moving average, Local <br /> regression, P-splines and Cubic spline |
 | Data Manipulation & Data Cleaning |  Python, RStudio, SQL, Excel: Data Cleaning and <br /> Pre-processing, Data Imputation, Outliers Detection,<br /> Normalisation and Standardization Data transformation, <br />Text Data Cleaning, Data Manipulation                                                                                                                                                                         |
 | Data Wrangling                    |  R-RStudio: dplyr, tidyr ; Python: Panda, NumPy                                                                                                     |
-| Database Management               |  Experienced in building and maintaining data warehouses and employing ETL processes                                                                |
-| Data Visualisation                |  Power BI, Tableau, Excel, Python : Seaborn , Matplotlib, Plotly ; Python - RStudio: ggplot2                                                        |
-| Python                            |  Classes, function objects, sequences, decisions, loops and common data structure Sklearn, Tensorflow and Keras                                     |
-| RStudio                           |  Generalized Linear Models(glm,MASS,car),Generalized Additive Models(mgcv) and Generalised Additive Models for Location Scale and Shape(gamlss)     |
-| Machine Learning                  |  Supervised: linear regression, logistic regression, decision trees..ecc. Unsupervised: clustering k-means, hierarchical, dimensionality reduction  |   
-|                                   |  Model Evaluation and Validation: Accuracy, precision, recall, F1-score, ROC curves, and AUC-ROC. Feature Engineering: Strong understanding of      |
-|                                   |  feature selection, extraction, and engineering techniques to enhance model performance                                                             |
-| Excel                             |  Data Analysis: Pivot Table, sorting, filtering; Advanced Formulas: VLOOKUP, INDEX-MATCH SUMIFS, COUNTIFS, IFERROR, Statistical Analysis, Financial | 
+| Database Management               |  Experienced in building and maintaining data warehouses <br />and employing ETL processes                                                                |
+| Data Visualisation                |  Power BI, Tableau, Excel, Python : Seaborn , Matplotlib, <br />Plotly ; Python - RStudio: ggplot2                                                        |
+| Python                            |  Classes, function objects, sequences, decisions, loops and<br /> common data structure Sklearn, Tensorflow and Keras                                     |
+| RStudio                           |  Generalized Linear Models(glm,MASS,car),Generalized<br /> Additive Models(mgcv) and Generalised Additive Models for Location Scale and Shape(gamlss)     |
+| Machine Learning                  |  Supervised: linear regression, logistic regression, decision<br /> trees..ecc. Unsupervised: clustering k-means, hierarchical, dimensionality reduction  |   
+|                                   |  Model Evaluation and Validation: Accuracy, precision, recall,<br />F1-score, ROC curves, and AUC-ROC. Feature Engineering: Strong understanding of      |
+|                                   |  feature selection, extraction, and engineering techniques to<br /> enhance model performance                                                             |
+| Excel                             |  Data Analysis: Pivot Table, sorting, filtering; Advanced Formulas:<br /> VLOOKUP, INDEX-MATCH SUMIFS, COUNTIFS, IFERROR, Statistical Analysis, Financial | 
 |                                   |  Modelling, Excel Macros(VBA)                                                                                                                       | 
-| Azure                             |  Azure SQL Database, Azure Data Factory, Azure Databricks, Azure Synapse Analytic                                                                   |
-| SQL                               |  SQL Server, MySQL (Advanced SQL skills including complex queries, subqueries, joins, stored procedures)                                            |
+| Azure                             |  Azure SQL Database, Azure Data Factory, Azure Databricks,<br /> Azure Synapse Analytic                                                                   |
+| SQL                               |  SQL Server, MySQL (Advanced SQL skills including complex <br />queries, subqueries, joins, stored procedures)                                            |
 
 
 ### Soft Skills
