@@ -106,11 +106,11 @@ on the level of London population density” <br />The focus of this paper is on
 
 |                                              |                                                             |
 |:---------------------------------------------|:-----------------------------------------------------------:|
-|  02/2018 - 03/2020                           |  London Metropolitan University, London                     |
+| 02/2018 - 03/2020                            |  London Metropolitan University, London                     |
 |                                              |  MSc Data Analytics, (Pass)                                 |
 | Core Modules:                                |  Statistical Modelling and Forecasting, Data Visualisation, <br />  Modelling and OLAP Technique for Data Analytics, Data Mining for <br />Business Intelligence, Python for Data  Analytics, Financial   Math                                                                                                         |
 | Languages:                                   |  Python, SQL, R , SQL                                       |
-| Final Year Project:                          | *"Analysis of the effects of Social, Demographic and Economic <br />ndicators, on the level of London population density”* <br /><br /> The focus of this paper is on the level of density of small areas <br /> within the urban area of London. The analysis is done to discover <br /> if selected factors could influence and determine areas with low density.                                                                                                     |
+| Final Year Project:                          | *"Analysis of the effects of Social, Demographic and Economic <br />indicators, on the level of London population density”* <br /><br /> The focus of this paper is on the level of density of small areas <br /> within the urban area of London. The analysis is done to discover <br /> if selected factors could influence and determine areas with low density.                                                                                                     |
 <br />
 
 |                                              |                                                             |
@@ -121,6 +121,5 @@ on the level of London population density” <br />The focus of this paper is on
 | Final Year Project:                          | *"Web Marketing and Mobile marketing, report and evolution with the <br /> territory”* <br /> <br /> Key components of the report include tracing the historical progression <br /> of web and mobile marketing within the territory, examining current trends, <br /> technological innovations, and consumer behaviours, evaluating the <br /> effectiveness of marketing campaigns, and projecting future developments <br />  in these domains.                                                                                                     |
 
 ## Interests and Achievements
-
 ### Hobbies:
 <div align="justify">have an interest in exploring philosophy and curious the world of business, including trends in areas such as advertising and the evolving role of media in society. Additionally, I also take part in sports including running, swimming and football.</div>
