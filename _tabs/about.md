@@ -67,8 +67,7 @@ Model Evaluation and Validation: Accuracy, precision, recall,<br />F1-score, ROC
 | 02/2018 - 03/2020                            |  London Metropolitan University, London <br /> MSc Data Analytics,(Pass)  |                                                                                                                
 | Core Modules:                                |  Statistical Modelling and Forecasting, Data Visualisation, <br />  Modelling and OLAP Technique for Data Analytics, Data Mining for <br />Business Intelligence, Python for Data  Analytics, Financial   Math                                                                                                         |
 | Languages:                                   |  Python, SQL, R , SQL                                       |
-| Final Year Project:                          | *"Analysis of the effects of Social, Demographic and Economic <br />indicators, on the level of London population density”* <br /><br /> The focus of this paper is on the level of density of small areas <br /> within the urban area of London. The analysis is done to discover <br /> if selected factors could influence and determine areas with low density |                                                                     
-
+| Final Year Project:                          | *"Analysis of the effects of Social, Demographic and Economic <br /> indicators, on the level of London population density”* <br /><br /> The focus of this paper is on the level of density of small areas <br /> within the urban area of London. The analysis is done to discover if selected factors could influence and determine areas with low density |                                                                     
 
 |                                              |                                                             |
 |:---------------------------------------------|:-----------------------------------------------------------:|
