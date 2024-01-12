@@ -38,7 +38,7 @@ I am now seeking an Entry-level role as a Data Analyst or Business Analyst where
 | Detail Orientate                                  |  Good planning & organisation                  |
 | Adaptable in situations                           |  Effective communication                       |
 
-<br />
+
 ## Education and IT Training
 <br />
 <p style='text-align: right;'>
