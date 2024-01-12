@@ -31,7 +31,7 @@ I am now seeking an Entry-level role as a Data Analyst or Business Analyst where
 | Azure                             |  Azure SQL Database, Azure Data Factory, Azure Databricks,<br /> Azure Synapse Analytic                                                                   |
 | SQL                               |  SQL Server, MySQL (Advanced SQL skills including complex <br />queries, subqueries, joins, stored procedures)                                            |
 
-<br /><br />
+<br />
 
 | Soft Skills                                       |                                                |
 |:--------------------------------------------------|:-----------------------------------------------|
@@ -40,7 +40,7 @@ I am now seeking an Entry-level role as a Data Analyst or Business Analyst where
 | Detail Orientate                                  |  Good planning & organisation                  |
 | Adaptable in situations                           |  Effective communication                       |
 
-<br /><br />
+<br />
 ## Education and IT Training
 <br />
 <p style='text-align: right;'>
