@@ -12,10 +12,7 @@ I am now seeking an Entry-level role as a Data Analyst or Business Analyst where
 
 
 ## Key Skills
-
-
-### Technical Skills:
-
+<br />
 
 | Technical Skills                  |                                                 Description                                                                                         |
 |:----------------------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -34,9 +31,7 @@ I am now seeking an Entry-level role as a Data Analyst or Business Analyst where
 | Azure                             |  Azure SQL Database, Azure Data Factory, Azure Databricks,<br /> Azure Synapse Analytic                                                                   |
 | SQL                               |  SQL Server, MySQL (Advanced SQL skills including complex <br />queries, subqueries, joins, stored procedures)                                            |
 
-
-### Soft Skills
-
+<br />
 
 | Soft Skills                                       |                                                 |
 |:--------------------------------------------------|:------------------------------------------------|
@@ -123,3 +118,13 @@ on the level of London population density” <br />The focus of this paper is on
 ## Interests and Hobbies
 
 <div align="justify"> I have an interest in exploring philosophy and curious the world of business, including trends in areas such as advertising and the evolving role of media in society. Additionally, I also take part in sports including running, swimming and football. </div>  
+
+
+<br /><br /><br /><br />
+<p style='text-align: right;'>
+<span style="float:left;">
+        Statistical Analysis 
+</span>Probability distribution functions, hypothesis testing,<br />
+descriptive/inferential stats, Moving average, <br />Local
+regression, P-splines and Cubic spline <br />
+</p><br />
