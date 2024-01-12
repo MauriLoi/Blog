@@ -120,7 +120,6 @@ on the level of London population density” <br />The focus of this paper is on
 | Languages:                                   |  R , MATLAB                                                 |
 | Final Year Project:                          | *"Web Marketing and Mobile marketing, report and evolution with the <br /> territory”* <br /> <br /> Key components of the report include tracing the historical progression <br /> of web and mobile marketing within the territory, examining current trends, <br /> technological innovations, and consumer behaviours, evaluating the <br /> effectiveness of marketing campaigns, and projecting future developments <br />  in these domains.                                                                                                     |
 
-
 ## Interests and Achievements
 
 ### Hobbies:
