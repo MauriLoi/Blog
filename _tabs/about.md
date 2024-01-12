@@ -66,7 +66,6 @@ I am now seeking an Entry-level role as a Data Analyst or Business Analyst where
 *  Data Analysis via Python programming- Utilising Pandas, Matplotlib & Seaborn
 *  Consolidation of assignments 
 
- <br />
 
 |                                              |                                                             |
 |:---------------------------------------------|:-----------------------------------------------------------:|
@@ -75,7 +74,6 @@ I am now seeking an Entry-level role as a Data Analyst or Business Analyst where
 | Languages:                                   |  Python, SQL, R , SQL                                       |
 | Final Year Project:                          | *"Analysis of the effects of Social, Demographic and Economic <br />indicators, on the level of London population density”* <br /><br /> The focus of this paper is on the level of density of small areas <br /> within the urban area of London. The analysis is done to discover <br /> if selected factors could influence and determine areas with low density.                                                                                                     |
 
-<br />
 
 |                                              |                                                             |
 |:---------------------------------------------|:-----------------------------------------------------------:|
