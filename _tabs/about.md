@@ -13,7 +13,6 @@ I am now seeking an Entry-level role as a Data Analyst or Business Analyst where
 
 ## Key Skills
 
-
 | Technical Skills                  |                                                 Description                                                                                         |
 |:----------------------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------|
 | Statistical Analysis              |  Probability distribution functions, hypothesis testing,<br /> descriptive/inferential stats, Moving average, Local <br /> regression, P-splines and Cubic spline |
