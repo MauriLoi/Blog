@@ -31,7 +31,6 @@ I am now seeking an Entry-level role as a Data Analyst or Business Analyst where
 | Azure                             |  Azure SQL Database, Azure Data Factory, Azure Databricks,<br /> Azure Synapse Analytic                                                                   |
 | SQL                               |  SQL Server, MySQL (Advanced SQL skills including complex <br />queries, subqueries, joins, stored procedures)                                            |
 
-<br />
 
 | Soft Skills                                       |                                                |
 |:--------------------------------------------------|:-----------------------------------------------|
@@ -50,7 +49,7 @@ I am now seeking an Entry-level role as a Data Analyst or Business Analyst where
  Just IT Training Ltd, London <br />
  Skills Bootcamp: Data Technician <br />
  A twelve-week intensive bootcamp the fundamentals of Data Technician 
-</p> <br />
+</p> 
 
 *  Data, Big Data and Data Structures
 *  Data Architecture & Governance
