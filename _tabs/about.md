@@ -29,12 +29,12 @@ Model Evaluation and Validation: Accuracy, precision, recall,<br />F1-score, ROC
 | SQL                               |  SQL Server, MySQL (Advanced SQL skills including complex <br />queries, subqueries, joins, stored procedures)                                                    |
 
 
-| Soft Skills                                       |                                                |
-|:--------------------------------------------------|:-----------------------------------------------|
-| Critical Thinking abilities                       |  Strong Customer Servicey                      |
-| Excellent Communication both writen and verbal    |  Able to work collaboratively and independently|
-| Detail Orientate                                  |  Good planning & organisation                  |
-| Adaptable in situations                           |  Effective communication                       |
+| Soft Skills                                    |                                                |
+|:-----------------------------------------------|:-----------------------------------------------|
+| Critical Thinking abilities                    | Strong Customer Servicey                      |
+| Excellent Communication both writen and verbal | Able to work collaboratively and independently|
+| Detail Orientate                               | Good planning & organisation                  |
+| Adaptable in situations                        | Effective communication                       |
 
 
 ## Education and IT Training
