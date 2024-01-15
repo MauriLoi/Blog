@@ -30,10 +30,10 @@ I am now seeking an Entry-level role as a Data Analyst or Business Analyst where
 
 | Soft Skills                                       |                                                |
 |:--------------------------------------------------|:-----------------------------------------------|
-| Critical Thinking abilities                       |  Strong Customer Servicey                      |
-| Excellent Communication both writen and verbal    |  Able to work collaboratively and independently|
-| Detail Orientate                                  |  Good planning & organisation                  |
-| Adaptable in situations                           |  Effective communication                       |
+| Critical Thinking abilities                       | Strong Customer Servicey                      |
+| Excellent Communication both writen and verbal    | Able to work collaboratively and independently|
+| Detail Orientate                                  | Good planning & organisation                  |
+| Adaptable in situations                           | Effective communication                       |
 
 
 ## Education and IT Training
