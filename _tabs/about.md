@@ -22,18 +22,18 @@ I am now seeking an Entry-level role as a Data Analyst or Business Analyst where
 | Data Visualisation                |  Power BI, Tableau, Excel, Python : Seaborn , Matplotlib, <br />Plotly ; Python - RStudio: ggplot2                                                                |
 | Python                            |  Classes, function objects, sequences, decisions, loops and<br /> common data structure, Sklearn, Tensorflow and Keras                                            |
 | RStudio                           |  Generalized Linear Models(glm,MASS,car),Generalized<br /> Additive Models(mgcv) and Generalised Additive Models <br />for Location Scale and Shape(gamlss)       |
-| Machine Learning                  |  Supervised: linear regression, logistic regression, decision<br /> trees..ecc. Unsupervised: clustering k-means, hierarchical,<br /> dimensionality reduction Model Evaluation and Validation: <br /> Accuracy, precision, recall,F1-score, ROC curves, and AUC-<br />ROC. Feature Engineering: <br />Strong understanding of feature selection,<br /> extraction, and engineering techniques to enhance model performance                                                                                                            |
-| Excel                             |  Data Analysis: Pivot Table, sorting, filtering; Advanced <br />Formulas: VLOOKUP, INDEX-MATCH SUMIFS, COUNTIFS, <br />IFERROR, Statistical Analysis, Financial Modelling,<br /> Excel Macro(VBA)                                                                                                                                                                            | 
+| Machine Learning                  |  Supervised: linear regression, logistic regression, decision<br /> trees..ecc. Unsupervised: clustering k-means, hierarchical,<br /> dimensionality reduction Model Evaluation and Validation: <br /> Accuracy, precision, recall,F1-score, ROC curves, and AUC-ROC.<br /> Feature Engineering: <br />Strong understanding of feature selection, extraction,<br /> and engineering techniques to enhance model performance                                                                                                            |
+| Excel                             |  Data Analysis: Pivot Table, sorting, filtering; Advanced <br />Formulas: VLOOKUP, INDEX-MATCH SUMIFS, COUNTIFS, <br />IFERROR, Statistical Analysis, Financial Modelling, Excel Macro(VBA)                                                                                                                                                                            | 
 | Azure                             |  Azure SQL Database, Azure Data Factory, Azure Databricks,<br /> Azure Synapse Analytic                                                                           |
 | SQL                               |  SQL Server, MySQL (Advanced SQL skills including complex <br />queries, subqueries, joins, stored procedures)                                                    |
 
 
-| Soft Skills                               |                                               |
-|:------------------------------------------|:----------------------------------------------|
-| Critical Thinking abilities               | Strong Customer Servicey                      |
-| Excellent Communication, writen and verbal| Able to work collaboratively and independently|
-| Detail Orientate                          | Good planning & organisation                  |
-| Adaptable in situations                   | Effective communication                       |
+| Soft Skills                                   |                                               |
+|:----------------------------------------------|:----------------------------------------------|
+| Critical Thinking abilities                   | Strong Customer Servicey                      |
+| Excellent Communication both writen and verbal| Able to work collaboratively and independently|
+| Detail Orientate                              | Good planning & organisation                  |
+| Adaptable in situations                       | Effective communication                       |
 
 
 ## Education and IT Training
