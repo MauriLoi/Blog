@@ -6,9 +6,12 @@ order: 4
 
 ## Personal Profile
 
-<div align="justify"> With a degree in Economics and Marketing, complemented by a Master's in Data Analytics,my professional journey has been a diverse exploration,from managing customer service in the hospitality sector to overseeing office administration in a government institution. This blend of academic and practical exposure has equipped me with a comprehensive understanding of the business landscape.<br /><br />
-Throughout my career, I have actively engaged in utilizing advanced tools and technologies. I have hands-on experience employing supervised and unsupervised machine learning algorithms, creating impactful visualizations, developing ETL processes, and crafting predictive models. Proficient in programming languages such as R and Python, I bring exceptional quantitative skills to the table.<br /><br />
-Keen on elevating my expertise in the ever-evolving data realm, I've recently completed the Digital Skills Bootcamp at Just IT Training. This program not only consolidates my existing skills but also introduces me to the latest technologies shaping the data landscape.<br />  <br />
+<div align="justify"> With a degree in Economics and Marketing, complemented by a Master's in Data Analytics,my professional journey has been a diverse exploration,from managing customer service in the hospitality sector to overseeing office administration in a government institution. This blend of academic and practical exposure has equipped me with a comprehensive understanding of the business landscape.<br />
+<br />
+Throughout my career, I have actively engaged in utilizing advanced tools and technologies. I have hands-on experience employing supervised and unsupervised machine learning algorithms, creating impactful visualizations, developing ETL processes, and crafting predictive models. Proficient in programming languages such as R and Python, I bring exceptional quantitative skills to the table.<br />
+<br />
+Keen on elevating my expertise in the ever-evolving data realm, I've recently completed the Digital Skills Bootcamp at Just IT Training. This program not only consolidates my existing skills but also introduces me to the latest technologies shaping the data landscape.<br />
+<br />
 As I embark on the next phase of my career, I am actively seeking an Entry-level role as a Data Analyst or Business Analyst. My aspiration is to leverage my customer-centric approach alongside my robust analytical and technical abilities, contributing significantly to data-driven decision-making processes.<br />  </div>
 
 ## Key Skills
