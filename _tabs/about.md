@@ -25,7 +25,7 @@ I am now seeking an Entry-level role as a Data Analyst or Business Analyst where
 | Machine Learning                  |  Supervised: linear regression, logistic regression, decision<br /> trees..ecc. Unsupervised: clustering k-means, hierarchical,<br /> dimensionality reduction Model Evaluation and Validation: <br /> Accuracy, precision, recall,F1-score, ROC curves,<br /> and AUC-ROC. Feature Engineering: Strong understanding <br /> of feature selection, extraction, and engineering techniques <br /> to enhance model performance |
 | Excel                             |  Data Analysis: Pivot Table, sorting, filtering; Advanced <br />Formulas: VLOOKUP, INDEX-MATCH SUMIFS, COUNTIFS, <br />IFERROR, Statistical Analysis, Financial Modelling, <br /> Excel Macro(VBA)| 
 | Azure                             |  Azure SQL Database, Azure Data Factory, Azure Databricks,<br /> Azure Synapse Analytic|
-| SQL                               |  SQL Server, MySQL (Advanced SQL skills including complex <br />queries, subqueries, joins, stored procedures)| </div>
+| SQL                               |  SQL Server, MySQL (Advanced SQL skills including complex <br />queries, subqueries, joins, stored procedures)|
 
 
 | Soft Skills                                   |                                               |
