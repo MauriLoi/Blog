@@ -15,6 +15,7 @@ Keen on elevating my expertise in the ever-evolving data realm, I've recently co
 As I embark on the next phase of my career, I am actively seeking an Entry-level role as a Data Analyst or Business Analyst. My aspiration is to leverage my customer-centric approach alongside my robust analytical and technical abilities, contributing significantly to data-driven decision-making processes.  <br />  </div>
 
 ## Key Skills
+<br>
 
 | Technical Skills                  |                                                 Description                                                                                                       |
 |:----------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------|
