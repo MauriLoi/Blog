@@ -13,19 +13,7 @@ I am now seeking an Entry-level role as a Data Analyst or Business Analyst where
 
 ## Key Skills
 
-| Technical Skills                  |                                                 Description                                                                                                       |
-|:----------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Statistical Analysis              |  Probability distribution functions, hypothesis testing,<br /> descriptive/inferential stats, Moving average, Local <br /> regression, P-splines and Cubic spline |
-| Data Manipulation & Data Cleaning |  Python, RStudio, SQL, Excel: Data Cleaning and <br /> Pre-processing, Data Imputation, Outliers Detection,<br /> Normalisation and Standardization Data transformation, <br />Text Data Cleaning, Data Manipulation |
-| Data Wrangling                    |  R-RStudio: dplyr, tidyr ; Python: Panda, NumPy                                                                                                                   |
-| Database Management               |  Experienced in building and maintaining data <br />warehouses and employing ETL processes                                                                        |
-| Data Visualisation                |  Power BI, Tableau, Excel, Python : Seaborn , Matplotlib, <br />Plotly ; Python - RStudio: ggplot2                                                                |
-| Python                            |  Classes, function objects, sequences, decisions, loops and<br /> common data structure, Sklearn, Tensorflow and Keras                                            |
-| RStudio                           |  Generalized Linear Models(glm,MASS,car),Generalized<br /> Additive Models(mgcv) and Generalised Additive Models <br />for Location Scale and Shape(gamlss)       |
-| Machine Learning                  |  Supervised: linear regression, logistic regression, decision<br /> trees..ecc. Unsupervised: clustering k-means, hierarchical,<br /> dimensionality reduction Model Evaluation and Validation: <br /> Accuracy, precision, recall,F1-score, ROC curves, and AUC-ROC.<br /> Feature Engineering: <br />Strong understanding of feature selection, extraction,<br /> and engineering techniques to enhance model performance |
-| Excel                             |  Data Analysis: Pivot Table, sorting, filtering; Advanced <br />Formulas: VLOOKUP, INDEX-MATCH SUMIFS, COUNTIFS, <br />IFERROR, Statistical Analysis, Financial Modelling, Excel Macro(VBA)| 
-| Azure                             |  Azure SQL Database, Azure Data Factory, Azure Databricks,<br /> Azure Synapse Analytic                                                                           |
-| SQL                               |  SQL Server, MySQL (Advanced SQL skills including complex <br />queries, subqueries, joins, stored procedures)                                                    |
+
 
 
 | Soft Skills                                   |                                               |
