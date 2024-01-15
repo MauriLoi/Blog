@@ -28,8 +28,8 @@ I am now seeking an Entry-level role as a Data Analyst or Business Analyst where
 | SQL                               |  SQL Server, MySQL (Advanced SQL skills including complex <br />queries, subqueries, joins, stored procedures)                                                    |
 
 
-| Soft Skills                                       |                                                |
-|:--------------------------------------------------|:-----------------------------------------------|
+| Soft Skills                                       |                                               |
+|:--------------------------------------------------|:----------------------------------------------|
 | Critical Thinking abilities                       | Strong Customer Servicey                      |
 | Excellent Communication both writen and verbal    | Able to work collaboratively and independently|
 | Detail Orientate                                  | Good planning & organisation                  |
