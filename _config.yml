@@ -72,10 +72,10 @@ theme_mode: # [light|dark]
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-img_cdn: "https://avatars.githubusercontent.com/u/72019375?v=4"
+img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "https://avatars.githubusercontent.com/u/72019375?v=4"
+avatar: "https://media.licdn.com/dms/image/v2/D4E03AQHr1HbkkFJ__Q/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1704200360642?e=1730937600&v=beta&t=MHDJCBZ8F3KV_fTSYwVEYbc4RL4ZVL4gXBziGtgNcN8"
 
 
 # boolean type, the global switch for TOC in posts.
